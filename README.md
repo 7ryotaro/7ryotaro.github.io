@@ -1,1 +1,0 @@
-# 7ryotaro.github.io
