@@ -1802,19 +1802,18 @@ input, select, textarea {
 			-webkit-transition: border-bottom-color 0.2s ease;
 			-ms-transition: border-bottom-color 0.2s ease;
 			transition: border-bottom-color 0.2s ease;
-			border-bottom: dotted 1px rgba(160, 160, 160, 0.65);
 			display: block;
 			margin: 0 1.5em 0 0;
+			color:rgb(100, 100, 100);
+			font-size: 1.3em;
 		}
 
+		.name:hover {
+			color: rgb(100, 100, 100) !important;
+		}
 		.author img {
-			border-radius: 100%;
 			display: block;
-			width: 4em;
-		}
-
-		.author:hover .name {
-			border-bottom-color: transparent;
+			width: 6em;
 		}
 
 /* Blurb */
