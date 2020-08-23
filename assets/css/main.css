@@ -3410,7 +3410,6 @@ input, select, textarea {
 
 	#intro .logo {
 		border-bottom: 0;
-		display: inline-block;
 		margin: 0 0 1em 0;
 		overflow: hidden;
 		position: relative;
